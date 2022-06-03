@@ -1,4 +1,4 @@
-# schemaexpress
+# schemaexpress - generate database documentation of a DB docker image from schemaspy served in expressjs
 
 ### Install nodejs
 
