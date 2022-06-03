@@ -45,7 +45,7 @@
 
 5. Give permission to write output from schemaspy
 ```bash
-~$ sudo chmod -R 777 output
+~$ sudo chmod -R 777 /output
 ~$ sudo chmod -R 777 generate.sh
 ```
 
