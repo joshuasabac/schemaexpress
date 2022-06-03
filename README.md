@@ -59,6 +59,6 @@ this will take a while depending on complexity of the database, See server logs 
 ### View the result
 
 ```
-http://localhost
+http://localhost:3005
 ```
 
